@@ -648,7 +648,6 @@ F 3 "~" H 1250 6250 50  0001 C CNN
 	1    1250 6250
 	1    0    0    1   
 $EndComp
-NoConn ~ 11000 2500
 NoConn ~ 11000 2600
 Wire Wire Line
 	2500 3600 1800 3600
@@ -1506,4 +1505,6 @@ F 3 "" H 2450 1400 50  0001 C CNN
 	1    2450 1400
 	0    -1   -1   0   
 $EndComp
+Text Label 11000 2500 0    50   ~ 0
+VRTD
 $EndSCHEMATC
